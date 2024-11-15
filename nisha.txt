@@ -1,1 +1,2 @@
 This is a Team Research & Development project. My group number is A131 and the dataset number is DS341. The dataset is related to the coating & uncoating of a golf ball.
+We are 5 member group.
