@@ -1,5 +1,5 @@
 library(dplyr)
-data <-read.csv("C:/Users/DELL/Documents/A131A_Team_Research/Golf.csv")
+data <-read.csv("Golf.csv")
 head(data)
 summary(data$Current)
 summary(data$New)
